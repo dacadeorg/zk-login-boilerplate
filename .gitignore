@@ -1,0 +1,9 @@
+zklogin-ceremony-contributions
+key.json
+run_prover_services.sh
+build
+node_modules
+*.log
+.DS_Store
+.env
+.idea
