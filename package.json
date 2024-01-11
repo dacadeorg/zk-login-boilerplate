@@ -35,7 +35,7 @@
         "web-vitals": "^2.1.4"
     },
     "engines": {
-        "node": "^12 || ^14 || ^16 || ^18"
+        "node": ">=16.0.0"
     },
     "browserslist": [
         "last 2 chrome version",
